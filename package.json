@@ -1,11 +1,13 @@
 {
+  "header": "'Access-Control-Allow-Origin', '*'",
   "name": "react-homework",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.10",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "2.1.8"
   },
   "scripts": {
     "start": "react-scripts start",
